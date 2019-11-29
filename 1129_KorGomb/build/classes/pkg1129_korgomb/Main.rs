@@ -1,0 +1,2 @@
+pkg1129_korgomb.Main
+pkg1129_korgomb.GClass
